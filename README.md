@@ -1,6 +1,6 @@
 # ExpenseTracker
 
-# Expense Tracker
+
 
 Expense Tracker is a simple web application built using **React** that allows users to track their expenses. It provides features to add, categorize, and delete expenses.
 
